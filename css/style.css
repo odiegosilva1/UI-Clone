@@ -74,3 +74,19 @@
     height: 40px;
     border-radius: 50%;
 }
+
+/* main */
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 56px 8px 0;
+}
+
+.content-logo {
+    height: 56px;
+}
+
+.content-search {
+    margin-top: 18px;
+    width: 100%;
+}
