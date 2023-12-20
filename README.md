@@ -1,2 +1,4 @@
 # UI-Clone
- UI Google clone made whith HTML and CSS 3.
+ a simple UI clone made whith HTML and CSS 3.
+
+
